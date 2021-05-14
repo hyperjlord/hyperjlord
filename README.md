@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-jlord&show_icons=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=y-jlord&show_icons=true&theme=dark"/>
 </p>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-jlord&show_icons=true&theme=synthwave""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-jlord&show_icons=true&theme=dark"/>
 </p> 
 
 
