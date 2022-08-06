@@ -1,15 +1,15 @@
 <h1 align="center">⚡a little coder ~ ⚡</h1>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-jlord&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyperjlord&show_icons=true&theme=tokyonight"/>
 </p>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-jlord&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperjlord&show_icons=true&theme=tokyonight"/>
 </p> 
 
 
 <!--
-**y-jlord/y-jlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyperjlord/hyperjlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
